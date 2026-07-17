@@ -127,7 +127,6 @@ React Native application for capturing animal weights from Bluetooth scales with
 <img src="https://img.shields.io/badge/GitHub-Jonah_Gichuha-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-Jonah_Gichuha-blue?style=for-the-badge&logo=linkedin">
 </a>
 

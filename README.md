@@ -106,7 +106,6 @@ React Native application for capturing animal weights from Bluetooth scales with
 <p align="center">
 
 🏢 Software Developer & ICT Support Specialist <br>
-<br><br>
 
 ✔️ Desktop, Web & Mobile Application Development <br>
 ✔️ Enterprise Software Deployment <br>

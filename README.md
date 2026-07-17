@@ -141,6 +141,18 @@ React Native application for capturing animal weights from Bluetooth scales with
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonahGW&show_icons=true&theme=tokyonight&hide_border=true" alt="Jonah's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonahGW&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JonahGW&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight">
 

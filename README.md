@@ -4,7 +4,7 @@
 
 <p align="center">
 💻 Software Developer | ICT Support Specialist | Enterprise Systems Engineer <br>
-🖥️ Building enterprise software, mobile applications, and ICT infrastructure at Scales Technology Solutions <br>
+🖥️ Building enterprise software, mobile applications, and ICT infrastructure <br>
 ⚙️ Passionate about building intelligent software that connects hardware, networking, and enterprise systems <br>
 </p>
 
@@ -106,7 +106,7 @@ React Native application for capturing animal weights from Bluetooth scales with
 <p align="center">
 
 🏢 Software Developer & ICT Support Specialist <br>
-<b>Scales Technology Solutions</b> <br><br>
+<br><br>
 
 ✔️ Desktop, Web & Mobile Application Development <br>
 ✔️ Enterprise Software Deployment <br>

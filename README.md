@@ -47,7 +47,7 @@
 Cross-platform weighbridge software built with Electron.js for vehicle weighing, ticket generation, reporting, and enterprise integration.<br><br>
 
 🌱 <b>Tea Farm App</b><br>
-A field collection system that enables tea farmers and collection centers to capture, synchronize, and manage field data efficiently.<br><br>
+A field collection system that enables tea farmers and collection centers  using Bluetooth-enabled scales to weigh and capture real time, synchronize, and manage field data efficiently.<br><br>
 
 📦 <b>Warehouse Management System</b><br>
 Inventory management solution with Bluetooth-enabled weighing scales, offline synchronization, and reporting dashboards.<br><br>
